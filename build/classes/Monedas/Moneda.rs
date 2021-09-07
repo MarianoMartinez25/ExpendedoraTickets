@@ -1,0 +1,2 @@
+Monedas.monedaComparator
+Monedas.Moneda

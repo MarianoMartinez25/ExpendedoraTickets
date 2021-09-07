@@ -1,0 +1,2 @@
+Expendedora.ErrorDePago
+Expendedora.TipoDeErrorPago
